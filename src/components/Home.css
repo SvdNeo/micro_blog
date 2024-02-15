@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+  }
+  
+  .nav {
+    width: 20%;
+    background-color: #b4bed1;
+  }
+  
+  .content {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    background-color: #7e94c1;
+    height: calc(100vh - 50px);
+  }
+  
+  .header {
+    height: 50px;
+    background-color: #4363a2;
+  }
